@@ -61,7 +61,7 @@ print(f"{pokemon2}:")
 print(f"{df.loc[pokemon2].T.to_string()}")
 #--------------------------------------
 
-#--------- matplotlib --------;
+#--------- matplotlib -----------
 stast =["HP",
    "Attack",
    "Defense",
